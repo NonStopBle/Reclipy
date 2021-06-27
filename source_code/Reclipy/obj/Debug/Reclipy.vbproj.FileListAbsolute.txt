@@ -1,0 +1,12 @@
+D:\Users\ardty\source\repos\Reclipy\Reclipy\bin\Debug\Reclipy.exe
+D:\Users\ardty\source\repos\Reclipy\Reclipy\bin\Debug\Reclipy.pdb
+D:\Users\ardty\source\repos\Reclipy\Reclipy\bin\Debug\Reclipy.xml
+D:\Users\ardty\source\repos\Reclipy\Reclipy\obj\Debug\Reclipy.Form1.resources
+D:\Users\ardty\source\repos\Reclipy\Reclipy\obj\Debug\Reclipy.Resources.resources
+D:\Users\ardty\source\repos\Reclipy\Reclipy\obj\Debug\Reclipy.vbproj.GenerateResource.cache
+D:\Users\ardty\source\repos\Reclipy\Reclipy\obj\Debug\Reclipy.vbproj.CoreCompileInputs.cache
+D:\Users\ardty\source\repos\Reclipy\Reclipy\obj\Debug\Reclipy.exe
+D:\Users\ardty\source\repos\Reclipy\Reclipy\obj\Debug\Reclipy.xml
+D:\Users\ardty\source\repos\Reclipy\Reclipy\obj\Debug\Reclipy.pdb
+D:\Users\ardty\source\repos\Reclipy\Reclipy\bin\Debug\Reclipy.exe.config
+D:\Users\ardty\source\repos\Reclipy\Reclipy\obj\Debug\Reclipy.vbprojAssemblyReference.cache
